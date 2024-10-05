@@ -1,0 +1,2516 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+.container {
+    background-color: white;
+    width: 100%;
+
+}
+
+.list {
+    text-align: right;
+    margin-right: 12.5%;
+    position: relative;
+    top: 20px;
+
+}
+
+@font-face {
+    font-family: pop;
+    src: url(./static/Montserrat-Medium.ttf);
+}
+
+.a {
+    color: #354655;
+    font-size: 13px;
+    padding: 15px;
+    text-decoration: none;
+    font-family: pop;
+}
+
+.b {
+    color: #354655;
+    font-size: 13px;
+    padding: 15px;
+    text-decoration: none;
+    font-family: pop;
+}
+
+.c {
+    color: #354655;
+    font-size: 13px;
+    padding: 15px;
+    text-decoration: none;
+    font-family: pop;
+}
+
+.d {
+    color: #354655;
+    font-size: 13px;
+    padding: 15px;
+    text-decoration: none;
+    font-family: pop;
+}
+
+
+.f {
+    color: #354655;
+    font-size: 13px;
+    padding: 15px;
+    text-decoration: none;
+    font-family: pop;
+}
+
+.q {
+    color: #354655;
+    font-size: 13px;
+    padding: 15px;
+    text-decoration: none;
+    font-family: pop;
+}
+
+.a:hover {
+    color: #5f738a;
+}
+
+.fat {
+    font-size: 20px;
+    color: #959597;
+    text-decoration: none;
+    margin-left: 15%;
+    position: relative;
+    top: 35px;
+    font-family: pop;
+    font-weight: 600;
+
+}
+
+
+.img1 {
+    text-align: right;
+    position: relative;
+    top: 15ch;
+    margin-right: 14%;
+}
+
+.img1 img {
+    width: 540px;
+    height: 463.79px;
+}
+
+.vvn {
+    color: #4285F4;
+    font-size: 16px;
+    font-family: pop;
+    position: relative;
+    bottom: 280px;
+    margin-left: 10.5%;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+
+
+@font-face {
+    font-family: help;
+    src: url(./static/Montserrat-Bold.ttf);
+}
+
+.mona {
+    width: 40%;
+    color: #364655;
+    font-size: 40px;
+    font-family: help;
+    font-weight: 800;
+    position: relative;
+    bottom: 250px;
+    margin-left: 10.5%;
+
+
+}
+
+.mona1 {
+    width: 40%;
+    color: #364655;
+    font-size: 40px;
+    font-family: help;
+    font-weight: 800;
+    position: relative;
+    bottom: 250px;
+    margin-left: 10.5%;
+
+}
+
+@font-face {
+    font-family: small;
+    src: url(./sans/OpenSans-Light.ttf);
+}
+
+
+
+.football {
+    color: #959597;
+    font-size: 15px;
+    font-family: small;
+    margin-left: 10.5%;
+    position: relative;
+    bottom: 230px;
+    width: 35%;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+
+.football2 {
+    color: #959597;
+    font-size: 15px;
+    font-family: small;
+    margin-left: 10.5%;
+    position: relative;
+    bottom: 230px;
+    width: 29%;
+    padding-top: 9px;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+
+
+@font-face {
+    font-family: man;
+    src: url(./static/Montserrat-Light.ttf);
+}
+
+.EMAIL {
+    font-size: 13px;
+    padding-left: 25px;
+    border: 2px #F3F3F3;
+    border-radius: 40px;
+    width: 18%;
+    height: 50px;
+    background-color: #F3F3F3;
+    margin-left: 9.8%;
+    position: relative;
+    bottom: 200px;
+    font-family: man;
+    font-weight: 600;
+}
+
+.submit {
+    border-radius: 40px;
+    background-color: #4285F4;
+    border: 2px #4285F4;
+    color: white;
+    width: 9%;
+    height: 50px;
+    position: relative;
+    bottom: 200px;
+    right: 70px;
+    font-size: 13px;
+    font-family: man;
+    font-weight: 600;
+}
+
+
+.will {
+    color: #959597;
+    font-size: 15px;
+    font-family: small;
+    margin-left: 10.1%;
+    position: relative;
+    bottom: 180px;
+    font-weight: 500;
+}
+
+.container2 {
+    background-color: #F8F9FA;
+    height: 135ch;
+    padding-top: 7%;
+    width: 100%;
+}
+
+
+.w1 {
+    color: #364655;
+    font-size: 40px;
+    font-family: help;
+    text-align: center;
+    width: 40%;
+    margin-left: 33%;
+}
+
+.w2 {
+    color: #5F6368;
+    font-family: pop;
+    font-size: 18px;
+    text-align: center;
+    width: 41%;
+    margin-left: 33%;
+    padding-top: 30px;
+
+}
+
+.w3 {
+    color: #5F6368;
+    font-family: pop;
+    font-size: 18px;
+    text-align: center;
+    width: 41%;
+    margin-left: 33%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+.icon1 {
+    text-align: center;
+    position: relative;
+    top: 50px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    width: 300px;
+    height: 280px;
+    padding-top: 50px;
+    margin-left: 17%;
+}
+
+
+
+.zoo {
+    color: #3A3A47;
+    font-family: help;
+    font-size: 21px;
+    padding-top: 15px;
+}
+
+
+@font-face {
+    font-family: iphone;
+    src: url(./sans/OpenSans-SemiBold.ttf);
+}
+
+.zoo1 {
+    color: #818198;
+    font-size: 14px;
+    font-family: iphone;
+    text-align: center;
+    width: 75%;
+    margin-left: 15%;
+    padding-top: 2px;
+    position: relative;
+    top: 20px;
+    letter-spacing: 1px;
+}
+
+.zoo2 {
+    color: #818198;
+    font-size: 14px;
+    font-family: iphone;
+    text-align: center;
+    width: 75%;
+    margin-left: 15%;
+    padding-top: 2px;
+    position: relative;
+    top: 20px;
+    letter-spacing: 1px;
+}
+
+
+.zoo3 {
+    color: #818198;
+    font-size: 14px;
+    font-family: iphone;
+    text-align: center;
+    width: 75%;
+    margin-left: 15%;
+    padding-top: 2px;
+    position: relative;
+    top: 20px;
+    letter-spacing: 1px;
+}
+
+
+
+.icon2 {
+    text-align: center;
+    position: relative;
+    bottom: 230.5px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    width: 300px;
+    height: 280px;
+    padding-top: 50px;
+    margin-left: 40%;
+    position: relative;
+
+}
+
+.oui {
+    color: #3A3A47;
+    font-family: help;
+    font-size: 21px;
+    padding-top: 15px;
+}
+
+.oop1 {
+    color: #818198;
+    font-size: 14px;
+    font-family: iphone;
+    text-align: center;
+    width: 75%;
+    margin-left: 15%;
+    padding-top: 2px;
+    position: relative;
+    top: 20px;
+    letter-spacing: 1px;
+}
+
+.oop2 {
+    color: #818198;
+    font-size: 14px;
+    font-family: iphone;
+    text-align: center;
+    width: 75%;
+    margin-left: 15%;
+    padding-top: 2px;
+    position: relative;
+    top: 20px;
+    letter-spacing: 1px;
+}
+
+.oop3 {
+    color: #818198;
+    font-size: 14px;
+    font-family: iphone;
+    text-align: center;
+    width: 75%;
+    margin-left: 15%;
+    padding-top: 2px;
+    position: relative;
+    top: 20px;
+    letter-spacing: 1px;
+}
+
+
+.icon3 {
+    text-align: center;
+    position: relative;
+    bottom: 510px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    width: 300px;
+    height: 280px;
+    padding-top: 50px;
+    margin-left: 63%;
+    position: relative;
+}
+
+.no {
+    color: #3A3A47;
+    font-family: help;
+    font-size: 21px;
+    padding-top: 15px;
+}
+
+.j1 {
+    color: #818198;
+    font-size: 14px;
+    font-family: iphone;
+    text-align: center;
+    width: 75%;
+    margin-left: 15%;
+    padding-top: 2px;
+    position: relative;
+    top: 20px;
+    letter-spacing: 1px;
+}
+
+.j2 {
+    color: #818198;
+    font-size: 14px;
+    font-family: iphone;
+    text-align: center;
+    width: 75%;
+    margin-left: 15%;
+    padding-top: 2px;
+    position: relative;
+    top: 20px;
+    letter-spacing: 1px;
+}
+
+
+
+.j3 {
+    color: #818198;
+    font-size: 14px;
+    font-family: iphone;
+    text-align: center;
+    width: 75%;
+    margin-left: 15%;
+    padding-top: 2px;
+    position: relative;
+    top: 20px;
+    letter-spacing: 1px;
+}
+
+
+.icon4 {
+    text-align: center;
+    position: relative;
+    bottom: 450px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    width: 300px;
+    height: 280px;
+    padding-top: 50px;
+    margin-left: 17%;
+    position: relative;
+}
+
+.fish {
+    color: #3A3A47;
+    font-family: help;
+    font-size: 21px;
+    padding-top: 15px;
+}
+
+.green1 {
+    color: #818198;
+    font-size: 14px;
+    font-family: iphone;
+    text-align: center;
+    width: 75%;
+    margin-left: 15%;
+    padding-top: 2px;
+    position: relative;
+    top: 20px;
+    letter-spacing: 1px;
+}
+
+.green2 {
+    color: #818198;
+    font-size: 14px;
+    font-family: iphone;
+    text-align: center;
+    width: 75%;
+    margin-left: 15%;
+    padding-top: 2px;
+    position: relative;
+    top: 20px;
+    letter-spacing: 1px;
+}
+
+
+.green3 {
+    color: #818198;
+    font-size: 14px;
+    font-family: iphone;
+    text-align: center;
+    width: 75%;
+    margin-left: 15%;
+    padding-top: 2px;
+    position: relative;
+    top: 20px;
+    letter-spacing: 1px;
+}
+
+
+.icon5 {
+    text-align: center;
+    position: relative;
+    bottom: 450px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    width: 300px;
+    height: 280px;
+    padding-top: 50px;
+    margin-left: 40%;
+    position: relative;
+    bottom: 91.5ch;
+}
+
+.school {
+    color: #3A3A47;
+    font-family: help;
+    font-size: 21px;
+    padding-top: 15px;
+}
+
+
+.u1 {
+    color: #818198;
+    font-size: 14px;
+    font-family: iphone;
+    text-align: center;
+    width: 75%;
+    margin-left: 15%;
+    padding-top: 2px;
+    position: relative;
+    top: 20px;
+    letter-spacing: 1px;
+}
+
+
+.u2 {
+    color: #818198;
+    font-size: 14px;
+    font-family: iphone;
+    text-align: center;
+    width: 75%;
+    margin-left: 15%;
+    padding-top: 2px;
+    position: relative;
+    top: 20px;
+    letter-spacing: 1px;
+}
+
+.u3 {
+    color: #818198;
+    font-size: 14px;
+    font-family: iphone;
+    text-align: center;
+    width: 75%;
+    margin-left: 15%;
+    padding-top: 2px;
+    position: relative;
+    top: 20px;
+    letter-spacing: 1px;
+}
+
+.icon6 {
+    text-align: center;
+    position: relative;
+    bottom: 450px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    width: 300px;
+    height: 280px;
+    padding-top: 50px;
+    margin-left: 63%;
+    position: relative;
+    bottom: 126.7ch;
+}
+
+
+
+.hesham {
+    color: #3A3A47;
+    font-family: help;
+    font-size: 21px;
+    padding-top: 15px;
+}
+
+
+.wage1 {
+    color: #818198;
+    font-size: 14px;
+    font-family: iphone;
+    text-align: center;
+    width: 75%;
+    margin-left: 15%;
+    padding-top: 2px;
+    position: relative;
+    top: 20px;
+    letter-spacing: 1px;
+}
+
+.wage2 {
+    color: #818198;
+    font-size: 14px;
+    font-family: iphone;
+    text-align: center;
+    width: 75%;
+    margin-left: 15%;
+    padding-top: 2px;
+    position: relative;
+    top: 20px;
+    letter-spacing: 1px;
+}
+
+
+.wage3 {
+    color: #818198;
+    font-size: 14px;
+    font-family: iphone;
+    text-align: center;
+    width: 75%;
+    margin-left: 15%;
+    padding-top: 2px;
+    position: relative;
+    top: 20px;
+    letter-spacing: 1px;
+}
+
+
+.container3 {
+    background-color: white;
+    padding-top: 100px;
+    height: 85ch;
+    width: 100%;
+
+}
+
+.fast1 {
+    position: relative;
+    top: 50px;
+    margin-left: 20%;
+}
+
+.run1 {
+    color: #3A3A47;
+    font-family: help;
+    font-size: 21px;
+    margin-left: 25%;
+    position: relative;
+    top: 10px;
+}
+
+.run2 {
+    color: #818198;
+    font-size: 14px;
+    font-family: iphone;
+    text-align: left;
+    width: 35%;
+    margin-left: 25%;
+    padding-top: 2px;
+    position: relative;
+    top: 20px;
+    letter-spacing: 1px;
+}
+
+.rn {
+    color: #818198;
+    font-size: 14px;
+    font-family: iphone;
+    text-align: left;
+    width: 35%;
+    margin-left: 25%;
+    padding-top: 7px;
+    position: relative;
+    top: 20px;
+    letter-spacing: 1px;
+}
+
+
+.fast2 {
+    position: relative;
+    top: 50px;
+    margin-left: 20%;
+}
+
+.run3 {
+    color: #3A3A47;
+    font-family: help;
+    font-size: 21px;
+    margin-left: 25%;
+    position: relative;
+    top: 10px;
+}
+
+.run4 {
+    color: #818198;
+    font-size: 14px;
+    font-family: iphone;
+    text-align: left;
+    width: 35%;
+    margin-left: 25%;
+    padding-top: 2px;
+    position: relative;
+    top: 20px;
+    letter-spacing: 1px;
+}
+
+.rn2 {
+    color: #818198;
+    font-size: 14px;
+    font-family: iphone;
+    text-align: left;
+    width: 35%;
+    margin-left: 25%;
+    padding-top: 7px;
+    position: relative;
+    top: 20px;
+    letter-spacing: 1px;
+}
+
+
+
+.fast3 {
+    position: relative;
+    top: 50px;
+    margin-left: 20%;
+}
+
+.run5 {
+    color: #3A3A47;
+    font-family: help;
+    font-size: 21px;
+    margin-left: 25%;
+    position: relative;
+    top: 10px;
+}
+
+.run6 {
+    color: #818198;
+    font-size: 14px;
+    font-family: iphone;
+    text-align: left;
+    width: 35%;
+    margin-left: 25%;
+    padding-top: 2px;
+    position: relative;
+    top: 20px;
+    letter-spacing: 1px;
+}
+
+.rn3 {
+    color: #818198;
+    font-size: 14px;
+    font-family: iphone;
+    text-align: left;
+    width: 35%;
+    margin-left: 25%;
+    padding-top: 7px;
+    position: relative;
+    top: 20px;
+    letter-spacing: 1px;
+}
+
+.right {
+    margin-left: 58%;
+    position: relative;
+    bottom: 370px;
+}
+
+.container4 {
+    background-color: #F9F9F9;
+    height: 60ch;
+    padding-top: 150px;
+    width: 100%;
+}
+
+.pubg1 {
+    color: #3A3A47;
+    font-family: help;
+    font-size: 32px;
+    margin-left: 7%;
+    width: 35%;
+    position: relative;
+    bottom: 60px;
+}
+
+
+@font-face {
+    font-family: payen;
+    src: url(./sans/OpenSans-Regular.ttf);
+}
+
+.pubg2 {
+    text-align: left;
+    color: #627382;
+    font-size: 16px;
+    font-family: payen;
+    margin-left: 7%;
+    width: 30%;
+    position: relative;
+    bottom: 30px;
+    letter-spacing: 1px;
+}
+
+
+@font-face {
+    font-family: hes;
+    src: url(./static/Montserrat-Medium.ttf);
+}
+
+.pubg3 {
+    font-family: hes;
+    text-decoration: none;
+    background-color: #4285F4;
+    color: white;
+    font-size: 13px;
+    letter-spacing: 2px;
+    border-radius: 30px;
+    margin-left: 6.5%;
+    padding-top: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+    position: relative;
+    top: 15px;
+}
+
+
+.laptop {
+
+    margin-left: 96.08ch;
+    position: relative;
+    bottom: 310px;
+}
+
+.grand1 {
+    margin-left: 73%;
+    position: relative;
+    bottom: 570px;
+}
+
+.container5 {
+    width: 100%;
+    height: 87ch;
+}
+
+.card1 {
+    margin-top: 150px;
+    margin-left: 9%;
+    background-color: rgb(251, 250, 250);
+    width: 400px;
+    height: 500px;
+    border-radius: 15px;
+}
+
+.hany {
+    text-align: center;
+    padding-top: 20px;
+    color: #3A3A47;
+    font-family: help;
+}
+
+
+.geo {
+    width: 150px;
+    margin-left: 120px;
+    position: relative;
+    top: 20px;
+}
+
+.letters {
+    text-align: center;
+    padding-top: 50px;
+    color: #627382;
+    font-size: 16px;
+    font-family: payen;
+    letter-spacing: 1px;
+
+}
+
+div .y1 {
+    padding: 7px;
+}
+
+
+.v100 {
+    text-align: center;
+    padding-top: 20px;
+    color: #3A3A47;
+    font-family: help;
+    font-size: 40px;
+}
+
+.hesham55 {
+    font-size: 22px;
+    font-weight: 100;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+@font-face {
+    font-family: mona;
+    src: url(./font-poppins/Poppins-Medium.ttf);
+}
+
+.linked1 {
+    background-color: #4285F4;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    position: relative;
+    top: 50px;
+    margin-left: 100px;
+    font-family: mona;
+}
+
+
+.card1:hover {
+    position: relative;
+    bottom: 50px;
+
+
+    .bmb {
+        background-color: #8fbaff;
+        border-radius: 7px;
+        margin-bottom: 20px;
+
+    }
+
+}
+
+
+
+
+
+.card2 {
+    margin-top: 150px;
+    margin-left: 37%;
+    background-color: rgb(251, 250, 250);
+    width: 400px;
+    height: 500px;
+    border-radius: 15px;
+    position: relative;
+    bottom: 81.5ch;
+}
+
+.hany2 {
+    text-align: center;
+    padding-top: 20px;
+    color: #3A3A47;
+    font-family: help;
+}
+
+
+.geo2 {
+    width: 150px;
+    margin-left: 120px;
+    position: relative;
+    top: 20px;
+}
+
+.letters2 {
+    text-align: center;
+    padding-top: 50px;
+    color: #627382;
+    font-size: 16px;
+    font-family: payen;
+    letter-spacing: 1px;
+
+}
+
+div .k1 {
+    padding: 7px;
+}
+
+
+.v300 {
+    text-align: center;
+    padding-top: 20px;
+    color: #3A3A47;
+    font-family: help;
+    font-size: 40px;
+}
+
+.hesham100 {
+    font-size: 22px;
+    font-weight: 100;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.linked2 {
+    background-color: #4285F4;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    position: relative;
+    top: 50px;
+    margin-left: 100px;
+    font-family: mona;
+}
+
+
+.card2:hover {
+    position: relative;
+    bottom: 85ch;
+
+
+    .bmb2 {
+        background-color: #8fbaff;
+        border-radius: 7px;
+
+    }
+
+}
+
+
+.card3 {
+    margin-top: 150px;
+    margin-left: 65%;
+    background-color: rgb(251, 250, 250);
+    width: 400px;
+    height: 500px;
+    border-radius: 15px;
+    position: relative;
+    bottom: 163ch;
+}
+
+.hany3 {
+    text-align: center;
+    padding-top: 20px;
+    color: #3A3A47;
+    font-family: help;
+}
+
+
+.geo3 {
+    width: 150px;
+    margin-left: 120px;
+    position: relative;
+    top: 20px;
+}
+
+.letters3 {
+    text-align: center;
+    padding-top: 50px;
+    color: #627382;
+    font-size: 16px;
+    font-family: payen;
+    letter-spacing: 1px;
+
+}
+
+div .k2 {
+    padding: 7px;
+}
+
+
+.v400 {
+    text-align: center;
+    padding-top: 20px;
+    color: #3A3A47;
+    font-family: help;
+    font-size: 40px;
+}
+
+.hesham200 {
+    font-size: 22px;
+    font-weight: 100;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.linked3 {
+    background-color: #4285F4;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    position: relative;
+    top: 50px;
+    margin-left: 100px;
+    font-family: mona;
+}
+
+
+.card3:hover {
+    position: relative;
+    bottom: 167ch;
+
+
+    .bmb3 {
+        background-color: #8fbaff;
+        border-radius: 7px;
+
+    }
+
+}
+
+
+.container6 {
+    background-color: #F9F9F9;
+    width: 100%;
+    height: 50ch;
+
+}
+
+
+.ani {
+    width: 30px;
+    height: 30px;
+    background-color: red;
+    border-radius: 50px;
+    animation-name: nice;
+    animation-iteration-count: infinite;
+    animation-delay: 0.1s;
+    animation-duration: 4s;
+}
+
+@keyframes nice {
+    0% {
+        background-color: blue;
+        translate: 5px 0;
+    }
+
+
+    25% {
+        background-color: orange;
+        translate: 5px 45ch;
+    }
+
+    50% {
+        background-color: yellow;
+        translate: 5px 0;
+    }
+
+    75% {
+        background-color: orange;
+        translate: 5px 45ch;
+    }
+
+    100% {
+        background-color: red;
+        translate: 5px 0;
+    }
+}
+
+
+.ani2 {
+    width: 30px;
+    height: 30px;
+    background-color: red;
+    border-radius: 50px;
+    animation-name: fury;
+    animation-iteration-count: infinite;
+    animation-delay: 0.1s;
+    animation-duration: 4s;
+}
+
+
+@keyframes fury {
+    0% {
+        translate: 185ch 42ch;
+        background-color: blue;
+
+    }
+
+    25% {
+        translate: 185ch 0;
+        background-color: orange;
+    }
+
+
+    50% {
+        translate: 185ch 42ch;
+        background-color: yellow;
+    }
+
+    75% {
+        translate: 185ch 0;
+        background-color: orange;
+
+    }
+
+    100% {
+        translate: 185ch 42ch;
+        background-color: red;
+    }
+}
+
+.read {
+    margin-left: 10%;
+    font-size: 40px;
+    font-weight: 600;
+    padding-top: 10px;
+    color: #3A3A47;
+    font-family: help;
+}
+
+.FIFA {
+    margin-left: 10%;
+    width: 25%;
+    text-align: left;
+    padding-top: 50px;
+    color: #627382;
+    font-size: 16px;
+    font-family: payen;
+    letter-spacing: 1px;
+    position: relative;
+    bottom: 25px;
+
+}
+
+.fifa2 {
+    padding-top: 10px;
+}
+
+.fifa3 {
+    padding-top: 10px;
+}
+
+.room1 {
+    margin-left: 40%;
+    position: relative;
+    bottom: 22ch;
+    width: 10%;
+}
+
+
+.proj1 {
+    color: #3A3A47;
+    font-family: help;
+    font-size: 20px;
+    width: 15%;
+}
+
+.sara1 {
+    display: block;
+    text-decoration: none;
+    padding-top: 20px;
+    color: #4e4e4e;
+    font-family: payen;
+    width: 55%;
+}
+
+.sara2 {
+    display: block;
+    text-decoration: none;
+    padding-top: 20px;
+    font-family: payen;
+    color: #4e4e4e;
+    width: 60%;
+}
+
+.sara3 {
+    display: block;
+    text-decoration: none;
+    padding-top: 20px;
+    font-family: payen;
+    color: #4e4e4e;
+    width: 60%;
+}
+
+.sara4 {
+    display: block;
+    text-decoration: none;
+    padding-top: 20px;
+    font-family: payen;
+    color: #4e4e4e;
+    width: 60%;
+}
+
+.sara1:hover {
+    color: red;
+}
+
+.sara2:hover {
+    color: red;
+
+}
+
+.sara3:hover {
+    color: red;
+
+}
+
+.sara4:hover {
+    color: red;
+}
+
+
+.room2 {
+    margin-left: 55%;
+    position: relative;
+    bottom: 45.6ch;
+    width: 10%;
+}
+
+
+.proj2 {
+    color: #3A3A47;
+    font-family: help;
+    font-size: 20px;
+    width: 33%;
+}
+
+.hesham1 {
+    display: block;
+    text-decoration: none;
+    padding-top: 20px;
+    color: #4e4e4e;
+    font-family: payen;
+    width: 22%;
+}
+
+.hesham2 {
+    display: block;
+    text-decoration: none;
+    padding-top: 20px;
+    font-family: payen;
+    color: #4e4e4e;
+    width: 20%;
+}
+
+.hesham3 {
+    display: block;
+    text-decoration: none;
+    padding-top: 20px;
+    font-family: payen;
+    color: #4e4e4e;
+    width: 20%;
+}
+
+.hesham4 {
+    display: block;
+    text-decoration: none;
+    padding-top: 20px;
+    font-family: payen;
+    color: #4e4e4e;
+    width: 20%;
+}
+
+.hesham1:hover {
+    color: red;
+}
+
+.hesham2:hover {
+    color: red;
+
+}
+
+.hesham3:hover {
+    color: red;
+
+}
+
+.hesham4:hover {
+    color: red;
+}
+
+
+.room3 {
+    margin-left: 70%;
+    position: relative;
+    bottom: 69.5ch;
+    width: 10%;
+}
+
+
+.proj3 {
+    color: #3A3A47;
+    font-family: help;
+    font-size: 20px;
+    width: 30%;
+}
+
+.mahmoud1 {
+    display: block;
+    text-decoration: none;
+    padding-top: 20px;
+    color: #4e4e4e;
+    font-family: payen;
+    width: 7%;
+}
+
+.mahmoud2 {
+    display: block;
+    text-decoration: none;
+    padding-top: 20px;
+    font-family: payen;
+    color: #4e4e4e;
+    width: 16%;
+}
+
+.mahmoud3 {
+    display: block;
+    text-decoration: none;
+    padding-top: 20px;
+    font-family: payen;
+    color: #4e4e4e;
+    width: 19%;
+}
+
+.mahmoud4 {
+    display: block;
+    text-decoration: none;
+    padding-top: 20px;
+    font-family: payen;
+    color: #4e4e4e;
+    width: 17%;
+}
+
+.mahmoud1:hover {
+    color: red;
+}
+
+.mahmoud2:hover {
+    color: red;
+
+}
+
+.mahmoud3:hover {
+    color: red;
+
+}
+
+.mahmoud4:hover {
+    color: red;
+}
+
+.room4 {
+    margin-left: 86%;
+    position: relative;
+    bottom: 93.2ch;
+    width: 10%;
+}
+
+
+.proj4 {
+    color: #3A3A47;
+    font-family: help;
+    font-size: 20px;
+    width: 80%;
+}
+
+.ali1 {
+    display: block;
+    text-decoration: none;
+    padding-top: 20px;
+    color: #4e4e4e;
+    font-family: payen;
+    width: 30%;
+}
+
+.ali2 {
+    display: block;
+    text-decoration: none;
+    padding-top: 20px;
+    font-family: payen;
+    color: #4e4e4e;
+    width: 28%;
+}
+
+.ali3 {
+    display: block;
+    text-decoration: none;
+    padding-top: 20px;
+    font-family: payen;
+    color: #4e4e4e;
+    width: 19%;
+}
+
+.ali4 {
+    display: block;
+    text-decoration: none;
+    padding-top: 20px;
+    font-family: payen;
+    color: #4e4e4e;
+    width: 17%;
+}
+
+.ali1:hover {
+    color: red;
+}
+
+.ali2:hover {
+    color: red;
+
+}
+
+.ali3:hover {
+    color: red;
+
+}
+
+.ali4:hover {
+    color: red;
+}
+
+
+.sad {
+    position: relative;
+    bottom: 90ch;
+    width: 130ch;
+    margin-left: 32ch;
+}
+
+
+
+
+.bank1 {
+    font-family: payen;
+    color: #4e4e4e;
+    font-size: 15px;
+    position: relative;
+    bottom: 78.6ch;
+    text-align: center;
+}
+
+@media (min-width:390px) and (max-width:844px) {
+
+     
+
+    .a {
+        color: #354655;
+        font-size: 9px;
+        padding: 5px;
+        position: relative;
+        bottom: 5px;
+    }
+
+    .b {
+        color: #354655;
+        font-size: 9px;
+        padding: 5px;
+        position: relative;
+        bottom: 5px;
+    }
+
+    .c {
+        color: #354655;
+        font-size: 9px;
+        padding: 5px;
+        position: relative;
+        bottom: 5px;
+    }
+
+
+    .d {
+        color: #354655;
+        font-size: 9px;
+        padding: 5px;
+        position: relative;
+        bottom: 5px;
+    }
+
+
+    .f {
+        color: #354655;
+        font-size: 9px;
+        padding: 5px;
+        position: relative;
+        bottom: 5px;
+    }
+
+
+    .q {
+        color: #354655;
+        font-size: 9px;
+        padding: 15px;
+        position: relative;
+        bottom: 5px;
+    }
+
+    .fat {
+        margin-left: 190px;
+        font-size: 15px;
+        position: relative;
+        top: 10px;
+        right: 40px;
+        margin-right: 100px;
+
+    }
+
+
+
+    .img1 img {
+        width: 250px;
+        height: 250px;
+    }
+
+    .img1 {
+        text-align: center;
+        padding-bottom: 25ch;
+
+    }
+
+    .vvn {
+        font-size: 10px;
+        position: absolute;
+        top: 13ch;
+        margin-right: 10%;
+
+    }
+
+    .mona {
+        font-size: 13px;
+        position: absolute;
+        top: 14ch;
+        width: 50%;
+    }
+
+    .mona1 {
+        font-size: 13px;
+        position: absolute;
+        top: 16ch;
+    }
+
+    .football {
+        font-size: 9px;
+        width: 100%;
+        position: absolute;
+        top: 80ch;
+
+    }
+
+    .football2 {
+        font-size: 9px;
+        position: absolute;
+        top: 81ch;
+        width: 100%;
+    }
+
+    .will {
+        font-size: 10px;
+        position: absolute;
+        top: 68ch;
+    }
+
+
+    .EMAIL {
+        padding: 10px;
+        height: 20px;
+        width: 25ch;
+        position: absolute;
+        top: 87.5ch;
+        font-size: 8px;
+
+    }
+
+    .submit {
+        font-size: 8px;
+        position: absolute;
+        top: 87.5ch;
+        left: 28ch;
+        height: 20px;
+        width: 12ch;
+    }
+
+    .laptop img {
+        height: 50px;
+        width: 50px;
+    }
+
+    .w1 {
+        font-size: 15px;
+        width: 90%;
+        padding-right: 100px;
+        margin-left: 20%;
+    }
+
+
+    .w2 {
+        font-size: 11px;
+        width: 70%;
+        margin-left: 17%;
+    }
+
+    .w3 {
+        font-size: 10px;
+        width: 70%;
+        position: relative;
+        bottom: 7px;
+        margin-left: 15%;
+    }
+
+
+
+    .iconimg1 {
+        height: 10px;
+        width: 10px;
+        position: relative;
+        bottom: 50px;
+    }
+
+    .icon1 {
+        height: 170px;
+        width: 150px;
+        margin-left: 30px;
+
+
+    }
+
+    .zoo {
+        font-size: 12px;
+        position: relative;
+        bottom: 65px;
+    }
+
+    .zoo1 {
+        font-size: 8px;
+        width: 250px;
+        padding-right: 150px;
+        position: absolute;
+        top: 90px;
+
+
+
+
+    }
+
+    .zoo2 {
+        font-size: 8px;
+        width: 250px;
+        padding-right: 150px;
+        position: absolute;
+        top: 110px;
+
+
+
+    }
+
+    .zoo3 {
+        font-size: 8px;
+        width: 250px;
+        padding-right: 150px;
+        position: absolute;
+        top: 130px;
+    }
+
+
+    .iconimg2 {
+        height: 10px;
+        width: 10px;
+        position: relative;
+        bottom: 50px;
+
+    }
+
+    .icon2 {
+        height: 170px;
+        width: 150px;
+        margin-left: 210px;
+        position: absolute;
+        top: 86.5ch;
+
+    }
+
+    .oui {
+        font-size: 12px;
+        position: relative;
+        bottom: 65px;
+    }
+
+    .oop1 {
+        font-size: 8px;
+        width: 250px;
+        padding-right: 150px;
+        position: absolute;
+        top: 90px;
+    }
+
+    .oop2 {
+        font-size: 8px;
+        width: 250px;
+        padding-right: 150px;
+        position: absolute;
+        top: 110px;
+    }
+
+    .oop3 {
+        font-size: 8px;
+        width: 250px;
+        padding-right: 150px;
+        position: absolute;
+        top: 130px;
+    }
+
+    .iconimg3 {
+        height: 10px;
+        width: 10px;
+        position: relative;
+        bottom: 50px;
+    }
+
+
+    .icon3 {
+        height: 170px;
+        width: 150px;
+        margin-left: 30px;
+        position: absolute;
+        top: 111ch;
+    }
+
+    .no {
+        font-size: 12px;
+        position: relative;
+        bottom: 65px;
+    }
+
+    .j1 {
+        font-size: 8px;
+        width: 250px;
+        padding-right: 150px;
+        position: absolute;
+        top: 90px;
+    }
+
+    .j2 {
+        font-size: 8px;
+        width: 250px;
+        padding-right: 150px;
+        position: absolute;
+        top: 110px;
+    }
+
+    .j3 {
+        font-size: 8px;
+        width: 250px;
+        padding-right: 150px;
+        position: absolute;
+        top: 130px;
+    }
+
+    .iconimg4 {
+        height: 10px;
+        width: 10px;
+        position: relative;
+        bottom: 50px;
+    }
+
+    .icon4 {
+        height: 170px;
+        width: 150px;
+        margin-left: 210px;
+        position: absolute;
+        top: 111ch;
+    }
+
+    .fish {
+        font-size: 12px;
+        position: relative;
+        bottom: 65px;
+    }
+
+    .green1 {
+        font-size: 8px;
+        width: 250px;
+        padding-right: 150px;
+        position: absolute;
+        top: 90px;
+    }
+
+    .green2 {
+        font-size: 8px;
+        width: 250px;
+        padding-right: 150px;
+        position: absolute;
+        top: 110px;
+    }
+
+    .green3 {
+        font-size: 8px;
+        width: 250px;
+        padding-right: 150px;
+        position: absolute;
+        top: 130px;
+    }
+
+    .iconimg5 {
+        height: 10px;
+        width: 10px;
+        position: relative;
+        bottom: 50px;
+    }
+
+    .icon5 {
+        height: 170px;
+        width: 150px;
+        margin-left: 30px;
+        position: absolute;
+        top: 135ch;
+    }
+
+    .school {
+        font-size: 12px;
+        position: relative;
+        bottom: 65px;
+    }
+
+    .u1 {
+        font-size: 8px;
+        width: 250px;
+        padding-right: 150px;
+        position: absolute;
+        top: 90px;
+    }
+
+    .u2 {
+        font-size: 8px;
+        width: 250px;
+        padding-right: 150px;
+        position: absolute;
+        top: 110px;
+    }
+
+    .u3 {
+        font-size: 8px;
+        width: 250px;
+        padding-right: 150px;
+        position: absolute;
+        top: 130px;
+    }
+
+    .iconimg6 {
+        height: 10px;
+        width: 10px;
+        position: relative;
+        bottom: 50px;
+    }
+
+    .icon6 {
+        height: 170px;
+        width: 150px;
+        margin-left: 210px;
+        position: absolute;
+        top: 135ch;
+    }
+
+    .hesham {
+        font-size: 12px;
+        position: relative;
+        bottom: 65px;
+    }
+
+    .wage1 {
+        font-size: 8px;
+        width: 250px;
+        padding-right: 150px;
+        position: absolute;
+        top: 90px;
+    }
+
+    .wage2 {
+        font-size: 8px;
+        width: 250px;
+        padding-right: 150px;
+        position: absolute;
+        top: 110px;
+    }
+
+    .wage3 {
+        font-size: 8px;
+        width: 250px;
+        padding-right: 150px;
+        position: absolute;
+        top: 130px;
+    }
+
+
+    .container2 {
+        height: 100ch;
+    }
+
+    .container3 {
+        padding-top: 10px;
+        height: 108ch;
+
+    }
+
+    .run1 {
+        font-size: 15px;
+        margin-left: 120px;
+        padding-top: 10px;
+    }
+
+    .run2 {
+        font-size: 10px;
+        width: 40%;
+        margin-left: 120px;
+    }
+
+    .rn {
+        font-size: 10px;
+        width: 40%;
+        margin-left: 120px;
+        position: absolute;
+        top: 250ch;
+    }
+
+    .fast1 {
+        text-align: center;
+    }
+
+    .run3 {
+        font-size: 15px;
+        margin-left: 120px;
+        padding-top: 10px;
+    }
+
+    .run4 {
+        font-size: 10px;
+        width: 40%;
+        margin-left: 120px;
+    }
+
+    .rn2 {
+        font-size: 10px;
+        width: 40%;
+        margin-left: 120px;
+        position: absolute;
+        top: 250ch;
+    }
+
+    .run5 {
+        font-size: 15px;
+        margin-left: 120px;
+        padding-top: 10px;
+    }
+
+    .run6 {
+        font-size: 10px;
+        width: 40%;
+        margin-left: 120px;
+    }
+
+    .rn3 {
+        font-size: 10px;
+        width: 40%;
+        margin-left: 120px;
+        position: absolute;
+        top: 250ch;
+    }
+
+    .right {
+        position: relative;
+        top: 2ch;
+        right: 20px;
+        margin-left: 1px;
+    }
+
+
+    .pubg1 {
+        font-size: 17px;
+        width: 70%;
+        margin-left: 50px;
+        padding-bottom: 20px;
+    }
+
+    .pubg2 {
+        margin-left: 50px;
+        font-size: 12px;
+        width: 80%;
+        position: relative;
+        bottom: 70px;
+    }
+
+    .pubg3 {
+        font-size: 12px;
+        position: absolute;
+        top: 298ch;
+        margin-left: 100px;
+    }
+
+
+    img {
+        max-width: 100%;
+        max-height: 100%;
+    }
+
+    .laptop {
+        margin-left: 2px;
+        height: 320px;
+        width: 370px;
+        position: relative;
+        top: 90px;
+        margin-left: 10px;
+    }
+
+    .grand1 {
+        position: relative;
+        bottom: 100px;
+        margin-left: 163px;
+    }
+
+    .container4 {
+        height: 100ch;
+    }
+
+
+    .container5 {
+        height: 150ch;
+        
+    }
+
+    .card1 {
+        position: absolute;
+        top: 360ch;
+        width: 250px;
+        height: 370px;
+        margin-left: 70px;
+    }
+
+
+    .hany {
+        font-size: 23px;
+    }
+
+    .geo {
+        margin-left: 50px;
+    }
+
+    .v100 {
+        font-size: 23px;
+    }
+
+    .hesham55 {
+        font-size: 20px;
+    }
+
+    .letters {
+        font-size: 15px;
+        position: relative;
+        bottom: 30px;
+    }
+
+    .linked1 {
+
+        font-size: 15.5px;
+        padding-top: 14px;
+        padding-bottom: 14px;
+        padding-left: 30px;
+        padding-right: 30px;
+        position: relative;
+        top: 5px;
+        margin-left: 55px;
+
+    }
+
+    .card2 {
+        width: 250px;
+        height: 370px;
+        margin-left: 70px;
+        position: relative;
+        top: 44ch;
+    }
+
+    .hany2 {
+        font-size: 23px;
+    }
+
+    .geo2 {
+        margin-left: 50px;
+    }
+
+    .v300 {
+        font-size: 23px;
+    }
+
+    .hesham100 {
+        font-size: 20px;
+    }
+
+    .letters2 {
+        font-size: 15px;
+        position: relative;
+        bottom: 30px;
+    }
+
+    .linked2 {
+        font-size: 15.5px;
+        padding-top: 14px;
+        padding-bottom: 14px;
+        padding-left: 30px;
+        padding-right: 30px;
+        position: relative;
+        top: 5px;
+        margin-left: 55px;
+    }
+
+    .card3 {
+        width: 250px;
+        height: 370px;
+        margin-left: 70px;
+        position: relative;
+        top: 33ch;
+    }
+
+    .hany3 {
+        font-size: 23px;
+    }
+
+    .geo3 {
+        margin-left: 50px;
+    }
+
+    .v400 {
+        font-size: 23px;
+    }
+
+    .hesham200 {
+        font-size: 20px;
+    }
+
+    .letters3 {
+        font-size: 15px;
+        position: relative;
+        bottom: 30px;
+    }
+
+    .linked3 {
+        font-size: 15.5px;
+        padding-top: 14px;
+        padding-bottom: 14px;
+        padding-left: 30px;
+        padding-right: 30px;
+        position: relative;
+        top: 5px;
+        margin-left: 55px;
+    }
+
+    .container6 {
+        height: 110ch;
+    }
+
+
+    .read {
+        font-size: 20px;
+        position: relative;
+        bottom: 25px;
+    }
+
+    .fifa {
+        font-size: 12px;
+        width: 50ch;
+        position: relative;
+        bottom: 35px;
+    }
+
+    .fifa2 {
+        font-size: 12px;
+        width: 50ch;
+        position: relative;
+        bottom: 45px;
+    }
+
+    .fifa3 {
+        font-size: 12px;
+        width: 50ch;
+        position: relative;
+        bottom: 55px;
+    }
+
+
+    .room1 {
+        font-size: 15px;
+        position: relative;
+        bottom: 50px;
+        margin-left: 70px;
+    }
+
+    .proj1 {
+        font-size: 15px;
+        
+    }
+
+    .sara1 {
+        font-size: 12px;
+        width: 10ch;
+    }
+
+    .sara2 {
+        font-size: 12px;
+        width: 100%;
+        width: 10ch;
+    }
+
+    .sara3 {
+        font-size: 12px;
+        width: 10ch;
+    }
+
+    .sara4 {
+        font-size: 12px;
+        width: 10ch;
+    }
+
+    .room2{
+        font-size: 15px;
+        position: relative;
+        bottom: 212px;
+        margin-left: 240px;
+    }
+
+    .proj2{
+        font-size: 15px;
+    }
+
+    .hesham1 {
+        font-size: 12px;
+        width: 10ch;
+    }
+
+    .hesham2 {
+        font-size: 12px;
+        width: 10ch;
+    }
+
+    .hesham3 {
+        font-size: 12px;
+        width: 10ch;
+    }
+
+    .hesham4 {
+        font-size: 12px;
+        width: 10ch;
+    }
+
+    .room3{
+        font-size: 15px;
+        position: relative;
+        bottom: 170px;
+        margin-left: 17%;
+    }
+
+
+    .proj3{
+        font-size: 15px;
+    }
+
+    .mahmoud1 {
+        font-size: 12px;
+        width: 10ch;
+    }
+
+    .mahmoud2 {
+        font-size: 12px;
+        width: 10ch;
+    }
+
+    .mahmoud3 {
+        font-size: 12px;
+        width: 10ch;
+    }
+
+    .mahmoud4 {
+        font-size: 12px;
+        width: 10ch;
+    }
+
+
+    .room4{
+        font-size: 15px;
+        position: relative;
+        bottom: 332px;
+        margin-left: 60%;
+    }
+
+
+    .proj4{
+        font-size: 15px;
+    }
+
+    .ali1 {
+        font-size: 12px;
+        width: 10ch;
+    }
+
+    .ali2 {
+        font-size: 12px;
+        width: 10ch;
+    }
+
+    .ali3 {
+        font-size: 12px;
+        width: 10ch;
+    }
+
+    .ali4 {
+        font-size: 12px;
+        width: 10ch;
+    }
+
+    .sad{
+        width: 40ch;
+        margin-left: 8%;
+        position: relative;
+        bottom: 39ch;
+    }
+
+    .bank1{
+        font-size: 14px;
+        position: relative;
+        bottom: 36ch;
+    }
+
+    .ani {
+        width: 30px;
+        height: 30px;
+        background-color: red;
+        border-radius: 50px;
+        animation-name: nice;
+        animation-iteration-count: infinite;
+        animation-delay: 0.1s;
+        animation-duration: 5s;
+    }
+    
+    @keyframes nice {
+        0% {
+            background-color: blue;
+            translate: 5px 0;
+        }
+    
+    
+        25% {
+            background-color: orange;
+            translate: 5px 62ch;
+        }
+    
+        50% {
+            background-color: yellow;
+            translate: 5px 0;
+        }
+    
+        75% {
+            background-color: orange;
+            translate: 5px 62ch;
+        }
+    
+        100% {
+            background-color: red;
+            translate: 5px 0;
+        }
+    }
+
+    .ani2 {
+        width: 30px;
+        height: 30px;
+        background-color: red;
+        border-radius: 50px;
+        animation-name: fury;
+        animation-iteration-count: infinite;
+        animation-delay: 0.1s;
+        animation-duration: 5s;
+    }
+    
+    
+    @keyframes fury {
+        0% {
+            translate: 45ch 62ch;
+            background-color: orange;
+           
+        }
+
+        25%{
+            translate: 45ch 0ch;
+            background-color: blue;
+        }
+
+        50%{
+            translate: 45ch 62ch;
+            background-color: orange;
+            
+        }
+
+        75%{
+            translate: 45ch 0ch;
+            background-color: yellow;
+        }
+        100%{
+            translate: 45ch 62ch;
+            background-color: orange;
+        }
+    
+    }
+}
